@@ -6,5 +6,17 @@
     "other": true,
     "comments": true,
     "strings": true
+  },
+  "github.copilot.inlineSuggest.count": 5,
+  "github.copilot.advanced": {
+  
+  },
+  "github.copilot.enable": {
+    "javascript":true,
+    "python" :true,
+    "*": true,
+    "yaml": false,
+    "plaintext": false,
+    "markdown": false
   }
 }
