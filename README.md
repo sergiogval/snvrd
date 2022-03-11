@@ -4,7 +4,7 @@
 
 ## Versión Beta
 
-Ésta página web tiene el propósito de informar acerca del Cannabis industrial o cáñamo. Actualmente, la planta es ampliamente usada debido a sus efectos narcóticos. Por el otro lado, la misma planta sirve como materia prima para producir más de 50mil productos, desde aceites hasta autopartes. El principal problema que trato de resolver es informar a la población de México  de que noble planta no sólo tiene usos médicos o recreacionales. E ir desmitificando con información verdadera los verdaderos alcances de ella.
+Ésta página web tiene el propósito de informar acerca del Cannabis industrial o cáñamo. Actualmente, la planta es ampliamente usada debido a sus efectos narcóticos. Por el otro lado, la misma planta sirve como materia prima para producir más de 50mil productos, desde aceites hasta autopartes. El principal problema que trato de resolver es informar a la población de México esta planta no debe ser prohibida y cómo puede tener un imácto positivo en nuestra sociedad. Desmitificando con información verdadera los verdaderos alcances positivos de ella.
 
 
 
