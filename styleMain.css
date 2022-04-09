@@ -1,0 +1,131 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #a5a5a5;
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    margin: 0;
+}
+
+.h1 {
+    text-align: center;
+}
+
+.h4 {
+    text-align: center;
+    max-width: 80%;
+    margin: auto;
+}
+
+.h3 {
+    text-align: center;
+    max-width: 90%;
+    margin: auto;
+}
+
+.p {
+    text-align: center;
+    max-width: 80%;
+    margin: auto;
+}
+
+.header {
+    display: flex;
+    flex-direction: row;
+    text-decoration: none;
+    list-style: none;
+}
+
+.navbar {
+    position: fixed;
+    border-bottom: 1px solid #dee2e6;
+    display: flex;
+    justify-content: center;
+    height: 20vw;
+    transition: 0.2s 0.1s;
+}
+
+.menu {
+    display: none;
+    font-family: poppins, sans-serif;
+    font-size: 2em;
+    font-weight: bold;
+    background-color: #fff;
+    transition: 0.2s 0.1s;
+    position: relative;
+    margin-top: 20%;
+    text-align: center;
+    list-style: none;
+    line-height: 4em;
+}
+
+.link-sections {
+    color: black;
+}
+
+.ham {
+    display: flex;
+    flex-direction: column;
+    cursor: pointer;
+    transition: 0.2s 0.1s;
+    background: transparent;
+    background-color: white;
+    border: none;
+    position: absolute;
+    margin: 5%;
+    left: 85%;
+    align-items: center;
+    top: 2%;
+}
+
+.br-1,
+.br-2,
+.br-3 {
+    color: black;
+    background-color: black;
+    height: 2px;
+    padding: 5%;
+    width: 1.6em;
+    margin: 15%;
+    border-radius: 2px;
+    transition: 0.2s 0.1s;
+}
+
+.menu.active {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    animation: muestraMenu 350ms ease-in-out both;
+    transition: 0.2s 0.1s;
+    justify-content: center;
+    height: 70vh;
+    width: 100vw;
+    margin-top: 20vw;
+    background-color: #fff;
+}
+
+navbar.active {
+    border-bottom: 1px solid #dee2e6;
+    display: flex;
+    justify-content: center;
+    height: 20vw;
+    z-index: 1;
+    transition: 0.2s 0.1s;
+}
+
+.br-1.animated {
+    transform: rotate(-45deg) translate(-10px, 11px);
+}
+
+.br-2.animated {
+    opacity: 0;
+}
+
+.br-3.animated {
+    transform: rotate(45deg) translate(-10px, -11px);
+}
